@@ -1,10 +1,16 @@
 # Lexnot
 
-Hukuk öğrencileri için not defteri (iOS). Bu repo uygulamanın gizlilik politikası ve destek sayfalarını barındırır.
+Fikirlerin için sade bir alan. Lexnot; yazılarını, çizimlerini ve ses kayıtlarını düzenli tutmana yardımcı olan bir not uygulamasıdır.
 
-A notebook app for law students (iOS). This repo hosts the app's privacy policy and support pages.
+- [Lexnot ana sayfa](https://omeryaldirgan.github.io/lexnot/)
+- [Destek ve sık sorulan sorular](https://omeryaldirgan.github.io/lexnot/support.html)
+- [Gizlilik politikası](https://omeryaldirgan.github.io/lexnot/privacy.html)
+- [Soru veya öneri paylaş](https://github.com/omeryaldirgan/lexnot/issues)
 
-- Gizlilik / Privacy: https://omeryaldirgan.github.io/lexnot/privacy.html
-- Destek / Support: https://omeryaldirgan.github.io/lexnot/support.html
+Notlar cihazda saklanır. Otomatik cihazlar arası eşitleme ve ses kayıtlarını otomatik yazıya çevirme şu anda sunulmaz. Cihaz değiştirmeden veya uygulamayı silmeden önce yedek almanızı öneririz.
 
-Soru ve öneriler için Issues bölümünü kullanabilirsin. / Use Issues for questions and feedback.
+## English
+
+Lexnot is a note-taking app for your writing, drawings and audio recordings. Notes are stored on your device. Cross-device sync and automatic audio transcription are not currently available.
+
+See [Support](https://omeryaldirgan.github.io/lexnot/support.html) and the [Privacy Policy](https://omeryaldirgan.github.io/lexnot/privacy.html) for more information.
