@@ -2,3 +2,4 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-widt
 h1{color:#7A1F2B;margin-bottom:4px}h2{margin-top:32px}a{color:#7A1F2B}
 .card{background:#fff;border-radius:14px;padding:20px 24px;border:1px solid #E5E0D5;margin-top:20px}
 .muted{color:#6B7280;font-size:14px}nav a{margin-right:16px}
+.logo{display:block;border-radius:22%;box-shadow:0 6px 20px rgba(0,0,0,.15);margin-bottom:12px}.logo.small{width:48px;height:48px;border-radius:22%}
